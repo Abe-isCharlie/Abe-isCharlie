@@ -29,5 +29,5 @@
 ##
 
 <div>
- <img src='https://github-profile-trophy.vercel.app/?username=Abe-isCharlie&theme=dracula&row=3&column=4'/>
+ <img src='https://github-profile-trophy.vercel.app/?username=Abe-isCharlie&theme=dracula&row=3&column=5&margin-w=15&margin-h=15'/>
 </div>
