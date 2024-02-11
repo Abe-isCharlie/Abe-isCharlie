@@ -7,7 +7,7 @@
 - 📚 Studying front-end and python.
 
 <div style='display: inline-block'>
-   <img height='175em' src='https://github-readme-stats.vercel.app/api?username=Abe-isCharlie&show_icons=true&theme=dracula'/>
+   <img height='175em' src='https://github-readme-stats.vercel.app/api?username=Abe-isCharlie&include_all_commits=true&show_icons=true&theme=dracula'/>
    <img height='175em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Abe-isCharlie&show_icons=true&theme=dracula'/>
 </div>
 
