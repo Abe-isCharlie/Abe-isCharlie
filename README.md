@@ -1,4 +1,4 @@
-<div> <img  height='40px' width='40px' src= 'https://cdn.discordapp.com/attachments/1204181156862631986/1204589791333715998/70777952.png?ex=65d548aa&is=65c2d3aa&hm=6a3367d094c206ba0579c0a8ef4238601c2aeb12757eed622b8ad4f50a89340c&'><strong style='font-size: 30px'>  Just Abê</strong></div>
+<div> <img  height='40px' width='40px' src= 'https://avatars.githubusercontent.com/u/70777952?v=4'><strong style='font-size: 30px'>  Just Abê</strong></div>
 
 ##
 
