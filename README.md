@@ -2,8 +2,6 @@
 
 ##
 
-🍃 An idle adult with nothing to do.
-
 - 📚 Studying front-end and python.
 
 <div style='display: inline-block'>
